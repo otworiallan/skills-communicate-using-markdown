@@ -16,4 +16,8 @@ I also use this to carry out simulation together with simulink.
 ## Python
 This is the latest addition to my skill set and I am so proud of myself for learning this cause it has opened opportunities such as the possibility to learn scripting for Ansys whose documentation can be found in #### pyAnsys.
 
+'''
+static_sys = GetTemplate(TemplateName="Static Analysis")
+'''
+
 add my interest to my profile
